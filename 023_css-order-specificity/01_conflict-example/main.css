@@ -1,0 +1,9 @@
+/*h1 {color: red; }
+#emph { color:yellow; }*/
+h1 {
+  color: red;
+  border: 1px solid blue;
+  font-style: italic;
+}
+.cowboy {color: green; }
+.emphasize {color: yellow; }

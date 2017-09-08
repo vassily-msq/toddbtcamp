@@ -1,0 +1,26 @@
+body {
+  width: 100%;
+  background-color: blue;
+}
+
+div {
+  width: 600px;
+  background-color: lightgreen;
+  padding: 20px;
+  display: block;
+  border: 5px solid black;
+  margin: 0 auto;
+}
+
+img {
+  border: 20px groove orange;
+  border-radius: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+h1:nth-child(2n) {color: blue;}
+h1:nth-child(2n+1) { color: red; }
+
+h1 {margin: 20px;}
+p {margin: 10px;}
