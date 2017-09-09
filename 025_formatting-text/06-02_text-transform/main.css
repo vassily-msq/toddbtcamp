@@ -3,6 +3,6 @@ h1 {
     font-size: 8rem;
     font-weight: normal;
     /* there are many different values to play with: */
-    /*font-variant: small-caps;*/
-    text-transform: uppercase;
+    font-variant: all-small-caps;
+    /*text-transform: lowercase;*/
 }
