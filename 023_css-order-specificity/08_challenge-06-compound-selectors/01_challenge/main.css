@@ -61,3 +61,12 @@ footer {
 small {
     padding: 5px 10px;
 }
+
+
+ul#summer-drinks li.favorite {
+  color: red;
+}
+
+html body ul#summer-drinks li.favorite {
+   color: blue;
+}
